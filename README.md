@@ -1,2 +1,2 @@
-# insta
-PHP SDK for InstaPay
+# Insta
+PHP SDK for IntaSend Payment Gateway
