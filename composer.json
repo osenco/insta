@@ -1,0 +1,9 @@
+{
+  name: "osenco/insta",
+  version: "1.0",
+  authors: [
+    {
+      email: "hi@osen.co.ke"
+    }
+  ]
+}
